@@ -5,7 +5,7 @@ import React from "react";
 import DesignIcon from '../assets/design.svg';
 import SalesIcon from '../assets/sales.svg';
 import MarketingIcon from '../assets/marketing.svg';
-import FinanceIcon from '../assets/Finance.svg';
+import FinanceIcon from '../assets/finance.svg';
 import TechnologyIcon from '../assets/technology.svg';
 import EngineeringIcon from '../assets/engineering.svg';
 import BusinessIcon from '../assets/business.svg';
