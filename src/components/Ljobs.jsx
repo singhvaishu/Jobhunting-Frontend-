@@ -1,12 +1,12 @@
 import React from 'react';
 
-import nomadLogo from '../assets/ljobs/Nomad.svg';
+import nomadLogo from '../assets/ljobs/nomad.svg';
 import netlifyLogo from '../assets/ljobs/netlify.png';
-import dropboxLogo from '../assets/ljobs/Dropbox.svg';
+import dropboxLogo from '../assets/ljobs/dropbox.svg';
 import mazeLogo from '../assets/ljobs/maze.jpg';
-import terraformLogo from '../assets/ljobs/Terraform.svg';
+import terraformLogo from '../assets/ljobs/terraform.svg';
 import udacityLogo from '../assets/ljobs/udacity.png';
-import packerLogo from '../assets/ljobs/Packer.svg';
+import packerLogo from '../assets/ljobs/packer.svg';
 import webflowLogo from '../assets/ljobs/webflow.png';
 
 const jobs = [
